@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HydroPowerProject/static/css/main.e0bc2b6f.css",
-    "main.js": "/HydroPowerProject/static/js/main.a51723b1.js",
-    "static/js/453.8012471d.chunk.js": "/HydroPowerProject/static/js/453.8012471d.chunk.js",
-    "index.html": "/HydroPowerProject/index.html",
-    "main.e0bc2b6f.css.map": "/HydroPowerProject/static/css/main.e0bc2b6f.css.map",
-    "main.a51723b1.js.map": "/HydroPowerProject/static/js/main.a51723b1.js.map",
-    "453.8012471d.chunk.js.map": "/HydroPowerProject/static/js/453.8012471d.chunk.js.map"
+    "main.css": "/static/css/main.e0bc2b6f.css",
+    "main.js": "/static/js/main.633592c1.js",
+    "static/js/453.8012471d.chunk.js": "/static/js/453.8012471d.chunk.js",
+    "index.html": "/index.html",
+    "main.e0bc2b6f.css.map": "/static/css/main.e0bc2b6f.css.map",
+    "main.633592c1.js.map": "/static/js/main.633592c1.js.map",
+    "453.8012471d.chunk.js.map": "/static/js/453.8012471d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0bc2b6f.css",
-    "static/js/main.a51723b1.js"
+    "static/js/main.633592c1.js"
   ]
 }
