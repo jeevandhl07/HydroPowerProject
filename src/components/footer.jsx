@@ -104,7 +104,7 @@ const Footer = () => {
         </FooterSection>
       </FooterContent>
       <FooterBottom>
-        <p>&copy; 2024  NextGen.devs || All rights reserved.</p>
+        <p>&copy; Copyright 2024 NextGen.devs || All rights reserved.</p>
       </FooterBottom>
     </FooterContainer>
   );
